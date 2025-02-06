@@ -42,7 +42,7 @@
     </div>
               <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔀 ERD Design  </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  <img src="https://github.com/user-attachments/assets/7ec3b5f0-03f7-4536-ba93-71eb2a8a11d1" width="80%"/>
-        <p>  🟡 테이블 총 74개 </p>
+        <p>  🟡 테이블 개수 : 총 74개 </p>
     </div>
       
     
